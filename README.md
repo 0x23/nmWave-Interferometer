@@ -7,7 +7,7 @@ This repository is being build, please come back another time...
 
 ## Laser Safety
 
-This project involves collimated laser beams with power levels above eye-safe able to cause permanent eye damage.
+This project involves collimated laser beams with power levels above eye-safe limits able to cause permanent eye damage.
 Please use proper precautions, do your own research, and respect laser safety guidelines.
 
 <img src="images/laser_hazard.jpg" alt="Laser Hazard" width="7%"/>
