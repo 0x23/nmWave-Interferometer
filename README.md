@@ -14,6 +14,8 @@ Please use proper precautions, do your own research and respect laser safety gui
 For this project the laser source requires a long coherence length, wich only certain laser diode models can provide.
 Below is a table of laser diodes that I tested or want to test in future:
 
+<img src="laser_hazard.jpg" alt="Laser Hazard" width="20%"/>
+
 | Part Number           | Nominal Current | Optimal Drive Current | Power   | Wavelength  | Notes                                           | Plus on case |
 |-----------------------|-----------------|-----------------------|---------|-------------|-------------------------------------------------|-----------|
 | SLD3232VF             | 55mA            | ?                     | 50mW    | 405nm       | Not good                                        | Yes       |
