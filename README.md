@@ -6,11 +6,8 @@ This repository is being build, please come back another time...
 
 ## Laser Safety
 
-<div style="display: flex; align-items: center;">
-  <img src="images/laser_hazard.jpg" alt="Laser Hazard" width="5%" style="float: left; margin-right: 15px;" />
-  <p>This project involves collimated laser beams with power levels above eye safe limits, which may cause permanent eye damage.
-Please use proper precautions, do your own research and respect laser safety guidelines.</p>
-</div>
+![Laser Hazard](images/laser_hazard.jpg){:style="float: left; margin-right: 15px;"}
+This project involves collimated laser beams with power levels above eye-safe limits, which may cause permanent eye damage. Please use proper precautions, do your own research, and respect laser safety guidelines.
 
 ## Laser Diodes
 
