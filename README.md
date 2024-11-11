@@ -2,6 +2,8 @@
 An Open Source Interferometer for Accurate Distance Measurements
 This repository is being build, please come back another time...
 
+![Interferometer](images/interferometer.jpg)
+
 ## Laser Safety
 
 This project involves collimated laser beams with power levels above eye safe limits, which may cause permanent eye damage.
