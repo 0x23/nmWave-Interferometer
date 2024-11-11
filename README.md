@@ -9,7 +9,7 @@ This repository is being build, please come back another time...
 This project involves collimated laser beams with power levels above eye safe limits, which may cause permanent eye damage.
 Please use proper precautions, do your own research and respect laser safety guidelines.   
 
-<img src="images/laser_hazard.jpg" alt="Laser Hazard" width="10%"/>
+<img src="images/laser_hazard.jpg" alt="Laser Hazard" width="5%"/>
 
 ## Laser Diodes
 
