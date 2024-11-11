@@ -9,12 +9,12 @@ This repository is being build, please come back another time...
 This project involves collimated laser beams with power levels above eye safe limits, which may cause permanent eye damage.
 Please use proper precautions, do your own research and respect laser safety guidelines.   
 
+<img src="images/laser_hazard.jpg" alt="Laser Hazard" width="10%"/>
+
 ## Laser Diodes
 
 For this project the laser source requires a long coherence length, wich only certain laser diode models can provide.
 Below is a table of laser diodes that I tested or want to test in future:
-
-<img src="images/laser_hazard.jpg" alt="Laser Hazard" width="10%"/>
 
 | Part Number           | Nominal Current | Optimal Drive Current | Power   | Wavelength  | Notes                                           | Plus on case |
 |-----------------------|-----------------|-----------------------|---------|-------------|-------------------------------------------------|-----------|
