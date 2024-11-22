@@ -20,7 +20,7 @@ It is ground to size using a diamond wetstone and a series of 3D printed jigs. T
 
 ## Laser Diodes
 
-The current recommandation is the: $${\color{lightgreen}Osram \space PLT5 \space 516FA}$$
+The current recommandation is the: $${\color{lightgreen}Osram \space PLT5 \space 516FA}$$ costing about 12$
 
 For this project the laser source requires a long coherence length, which only certain laser diode models can provide.
 Below is a table of laser diodes that I tested or want to test in future:
