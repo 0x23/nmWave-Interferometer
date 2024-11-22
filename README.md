@@ -14,7 +14,7 @@ Please use proper precautions, do your own research, and respect laser safety gu
 ## Beam Splitter
 
 The Beam splitter is made from regular float glass with a thickness of about 6 mm. It does not requre any coatings and uses the inherent reflectivity of glass surfaces.
-It is ground to size using a diamond wetstone and a series of 3D printed jigs, which can be found here:
+It is ground to size using a diamond wetstone and a series of 3D printed jigs. The models for 3d printing can be found here:
 
 [3D-Printed Grinding Tools](tools_3dprinted/beam_splitter_22mmx13mm)
 
