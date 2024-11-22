@@ -1,6 +1,6 @@
 # An Open Source Interferometer for Accurate Distance Measurements
 
-This repository is being build, please come back another time...
+This repository is currently work in progress...
 
 ![Interferometer](images/interferometer.jpg)
 
