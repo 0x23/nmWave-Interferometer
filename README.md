@@ -20,8 +20,10 @@ It is ground to size using a diamond wetstone and a series of 3D printed jigs. T
 
 ## Laser Diodes
 
-For this project the laser source requires a long coherence length, wich only certain laser diode models can provide.
+For this project the laser source requires a long coherence length, which only certain laser diode models can provide.
 Below is a table of laser diodes that I tested or want to test in future:
+
+The current recommandation is the: <code style="color : Aquamarine">Osram PLT5 516FA</code>
 
 | Part Number           | Nominal Current | Optimal Drive Current | Power   | Wavelength  | Notes                                             | Plus on case |
 |-----------------------|-----------------|-----------------------|---------|-------------|---------------------------------------------------|-----------|
