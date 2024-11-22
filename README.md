@@ -24,7 +24,7 @@ For this project the laser source requires a long coherence length, which only c
 Below is a table of laser diodes that I tested or want to test in future:
 
 The current recommandation is the: $${\color{lightgreen}Osram \space PLT5 \space 516FA}$$
-
+<br><br>
 
 | Part Number           | Nominal Current | Optimal Drive Current | Power   | Wavelength  | Notes                                             | Plus on case |
 |-----------------------|-----------------|-----------------------|---------|-------------|---------------------------------------------------|-----------|
