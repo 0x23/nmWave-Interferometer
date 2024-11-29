@@ -38,5 +38,11 @@ Below is a table of laser diodes that I tested or want to test in future:
 | PLT5 520DB            | -               | ?                     | 10mW    | 520nm       | Not tested (probably not good)                    | No        |
 | PLT5 518FB_P          | -               | ?                     | 30mW    | 518nm       | Not tested (probably not good)                    | No        |
 
+## Photo Diodes
+
+For the project fast photodiodes for the visible spectral range are required. Silicon PIN Photodiodes satisfy these requirements and are readily available.
+To get a good signal a small active area of about 1mm² without a lens is prefereable. The current choice is the $${\color{lightgreen}SFH229}$$ photodiode in a 3mm LED case.
+It is sensitive in the range of 380 nm bis 1100 nm and has a switching time of 10ns. To to reduce the footprint and remove the lense a 3D printed jig and sandpaper can be used.
+Mor information on this subject is coming soon..
 
 
