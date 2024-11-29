@@ -1,7 +1,6 @@
 # An Open Source Interferometer for Accurate Distance Measurements
 
-This projects goal is to provide plans and techniques for a relatively easy to build interferometer to measure accurate changes in distance over a large rang of hundrets of millimeters with sub micrometer precision.
-The aim is to use as components that are low cost and videly available and to strike a good compromise between ease of manufacturing and performance.
+The goal of this project is to provide plans and techniques for building an interferometer that can accurately measure changes in distance over a range of hundreds of millimeters with sub-micrometer precision. The objective is to use low-cost, widely available components and achieve a good balance between ease of manufacturing and performance.
 
 This repository is currently work in progress...
 
