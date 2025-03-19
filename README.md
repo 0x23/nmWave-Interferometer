@@ -20,6 +20,12 @@ It is ground to size using a diamond wetstone and a series of 3D printed jigs. T
 
 [3D-Printed Grinding Tools](tools_3dprinted/beam_splitter_22mmx13mm)
 
+## CAD Models
+
+NEW: FreeCAD models of the new design are now online, take a look!
+
+<img src="images/FreeCAD-Model.jpg" alt="Laser Hazard" width="80%"/>
+
 ## Laser Diodes
 
 The current recommandation is the: $${\color{lightgreen}Osram \space PLT5 \space 516FA}$$ costing about 12$
