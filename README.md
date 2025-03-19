@@ -19,7 +19,7 @@ Please use proper precautions, do your own research, and respect laser safety gu
 
 NEW: FreeCAD models of the new design are now online, take a look!
 
-<img src="images/FreeCAD-Model.jpg" alt="Laser Hazard" width="80%"/>
+<img src="images/FreeCAD-Model.jpg" alt="Laser Hazard" width="100%"/>
 
 ## Beam Splitter
 
