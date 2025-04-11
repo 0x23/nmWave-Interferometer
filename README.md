@@ -13,18 +13,18 @@ Please use proper precautions, do your own research, and respect laser safety gu
 
 <img src="images/laser_hazard.jpg" alt="Laser Hazard" width="7%"/>
 
-## Beam Splitter
-
-The Beam splitter is made from regular float glass with a thickness of about 6 mm. It does not requre any coatings and uses the inherent reflectivity of glass surfaces.
-It is ground to size using a diamond wetstone and a series of 3D printed jigs. The models for 3d printing can be found here:
-
 [3D-Printed Grinding Tools](tools_3dprinted/beam_splitter_22mmx13mm)
 
 ## CAD Models
 
-NEW: FreeCAD models of the new design are now online, take a look!
+[MORE IMPROVEMENTS COMING SOON - DO NOT USE] FreeCAD models of the design are now online, take a look! 
 
-<img src="images/FreeCAD-Model.jpg" alt="Laser Hazard" width="80%"/>
+<img src="images/FreeCAD-Model.jpg" alt="Laser Hazard" width="100%"/>
+
+## Beam Splitter
+
+The Beam splitter is made from regular float glass with a thickness of about 6 mm. It does not requre any coatings and uses the inherent reflectivity of glass surfaces.
+It is ground to size using a diamond wetstone and a series of 3D printed jigs. The models for 3d printing can be found here:
 
 ## Laser Diodes
 
