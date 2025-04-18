@@ -17,7 +17,7 @@ Please use proper precautions, do your own research, and respect laser safety gu
 
 ## CAD Models
 
-[MORE IMPROVEMENTS COMING SOON - DO NOT USE] FreeCAD models of the design are now online, take a look! 
+[NEW DESIGN - Version 5] FreeCAD models of the design are now online, take a look! 
 
 <img src="images/FreeCAD-Model.jpg" alt="Laser Hazard" width="100%"/>
 
