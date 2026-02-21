@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CONMHF1-SMD-T")(type "KiCad")(uri "${KIPRJMOD}/libs/ConMHF_SMD/CONMHF1-SMD-T.kicad_sym")(options "")(descr ""))
+  (lib (name "CONMHF4-SMD-G-T")(type "KiCad")(uri "${KIPRJMOD}/libs/ConMHF_SMD/CONMHF4-SMD-G-T.kicad_sym")(options "")(descr ""))
+  (lib (name "DCDC_Converter")(type "KiCad")(uri "${KIPRJMOD}/libs/DCDC_Converter/DCDC_Converter.kicad_sym")(options "")(descr ""))
+)

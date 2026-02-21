@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NCD98010")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/NCD98010.kicad_sym")(options "")(descr ""))
+  (lib (name "CONMHF1-SMD-T")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/ConMHF_SMD/CONMHF1-SMD-T.kicad_sym")(options "")(descr ""))
+  (lib (name "CONMHF4-SMD-G-T")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/ConMHF_SMD/CONMHF4-SMD-G-T.kicad_sym")(options "")(descr ""))
+)
