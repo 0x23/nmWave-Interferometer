@@ -20,8 +20,8 @@ Please use proper precautions, do your own research, and respect laser safety gu
 The KICAD design files for the electronics have been updated to the newest development version. The design is still work in progress but all functions have been successfully tested on a prototype. 
 
 <div style="display: flex; gap: 2%;">
-  <img src="images/PhotdiodeBoard.jpg" alt="Image 1" height="200">
-  <img src="images/ControllBoard.jpg" alt="Image 2" height="200">
+  <img src="images/PhotdiodeBoard.jpg" alt="Image 1" height="250">
+  <img src="images/ControllBoard.jpg" alt="Image 2" height="250">
 </div>
 
 <!-- <img src="images/ControllBoardLayout.jpg" alt="Photodiode Board" height="200"/> -->
