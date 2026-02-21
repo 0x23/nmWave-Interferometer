@@ -15,6 +15,17 @@ Please use proper precautions, do your own research, and respect laser safety gu
 
 [3D-Printed Grinding Tools](tools_3dprinted/beam_splitter_22mmx13mm)
 
+## Electronics
+
+The KICAD design files for the electronics have been updated to the newest development version. The design is still work in progress but all functions have been successfully tested on a prototype. 
+
+<div style="display: flex; gap: 2%;">
+  <img src="images/PhotdiodeBoard.jpg" alt="Image 1" height="200">
+  <img src="images/ControllBoard.jpg" alt="Image 2" height="200">
+</div>
+
+<!-- <img src="images/ControllBoardLayout.jpg" alt="Photodiode Board" height="200"/> -->
+
 ## CAD Models
 
 [NEW DESIGN - Version 5] FreeCAD models of the design are now online, take a look! 
